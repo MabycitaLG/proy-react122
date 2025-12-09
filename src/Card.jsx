@@ -1,18 +1,17 @@
 
-
-  function Card1(props)
+function Card(props)
 {
     return(
         <div>
             <div className="card bg-base-100 w-96 shadow-sm">
   <figure>
     <img
-      src="./img3.jpg"
+      src="./img2.jpg"
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Grinch</h2>
-    <p>El traje del Grinch es un disfraz popular que suele consistir en un mono o traje de cuerpo completo de color verde, a menudo con piel sintética, y una máscara o capucha a juego.</p>
+    <h2 className="card-title">Traje de papanoel</h2>
+    <p>El traje de Papá Noel es un atuendo clásico, icónico y festivo</p>
     <div className="card-actions justify-end">
       <button className="btn btn-primary">Buy Now</button>
     </div>
@@ -24,4 +23,4 @@
         </div>
     );
 }
-export default Card1;
+export default Card;
