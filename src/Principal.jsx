@@ -7,7 +7,7 @@ function Ini(props){
     return(
         <div className="inic">
 
-         <div>   <img src="./img1.jpg" alt="portada"/></div>
+         <div>   <img src="./public/img1.jpg" alt="portada"/></div>
           <div className="secction"style={{backgroundColor:'beige'}}>
 La Navidad es una festividad cristiana que conmemora el nacimiento de Jesucristo y se celebra anualmente el 25 de diciembre. Es una época de recogimiento familiar, paz, amor y generosidad. 
 A continuación, se presentan ideas y tradiciones clave para celebrar la Navidad:
