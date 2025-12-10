@@ -27,6 +27,7 @@ function Vestimenta(props){
         </div>
     );
 }
+
 function Comida(props){
     return(
         <div className="ofe">
